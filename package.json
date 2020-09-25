@@ -1,0 +1,17 @@
+{
+    "name": "AkramsCoin",
+    "version": "1.0.0",
+    "description": "Akrams Token ICO",
+    "main": "truffle.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "dev": "lite-server"
+    },
+    "author": "Akramwired",
+    "license": "GPL",
+    "devDependencies": {
+        "lite-server": "^2.3.0"
+    }
+}
